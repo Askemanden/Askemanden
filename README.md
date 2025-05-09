@@ -8,6 +8,7 @@ I do programming in `Java` and `Python`, and also a bit of `Javascript`
 **I mostly do things for fun on here** __**`YIPPEEEE`**__
 __and school__ `:(`
 ```mermaid
+flowchart TD
 a-->b
 ```
 <!---
