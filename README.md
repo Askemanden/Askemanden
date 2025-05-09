@@ -9,7 +9,8 @@ I do programming in `Java` and `Python`, and also a bit of `Javascript`
 __and school__ `:(`
 ```mermaid
 flowchart TD
-a-->b
+a((I AM NICE))-->b[/I DO FUNKY MARKDOWN IN MY PROFILE TO FLEX/]
+b-- YES I DO --xc{hehe}
 ```
 <!---
 Askemanden/Askemanden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
