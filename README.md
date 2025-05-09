@@ -11,6 +11,7 @@ __and school__ `:(`
 flowchart TD
 a((I AM NICE))-->b[/I DO FUNKY MARKDOWN IN MY PROFILE TO FLEX/]
 b-- YES I DO --xc{hehe}
+b-- AND IT IS FUNKY INDEED ---oq[WEEE]
 ```
 <!---
 Askemanden/Askemanden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
