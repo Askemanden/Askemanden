@@ -7,8 +7,8 @@ I do programming in `Java` and `Python`, and also a bit of `Javascript`
 |INDEED||
 **I mostly do things for fun on here** __**`YIPPEEEE`**__
 __and school__ `:(`
-```js
-let a=2
+```mermaid
+a-->b
 ```
 <!---
 Askemanden/Askemanden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
