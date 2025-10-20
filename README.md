@@ -1,11 +1,10 @@
 ## Helloo, i'm Askemanden
 __i am very cool__
-I do programming in `Java` and `Python`, and also a bit of `Javascript`
 |I|AM|
 |-|-|
 |VERY|COOL|
 |INDEED||
-**I mostly do things for fun on here** __**`YIPPEEEE`**__
+**I fun here** __**`YIPPEEEE`**__
 __and school__ `:(`
 ```mermaid
 flowchart TD
