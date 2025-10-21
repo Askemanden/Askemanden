@@ -1,6 +1,7 @@
 ```mermaid
-a["AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"]-->b[/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/]
-b-->c((end)
+flowchart TD
+a["AAAAAAAAAAAAAAAAAAAAAA"]-->b[/"ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ"/]
+b-->c(("END"))
 ```
 <!---
 Askemanden/Askemanden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
