@@ -1,5 +1,6 @@
 ```mermaid
 flowchart TD
+z((START))-->a
 a["AAAAAAAAAAAAAAAAAAAAAA"]-->b[/"ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ"/]
 b-->c(("END"))
 ```
